@@ -33,3 +33,6 @@ WHERE
 -- Exemplo:
 -- Para o texto :Sabado Emitimos o PEDIDO 123456
 -- O CHARINDEX irá retornar a posição 18, e ao adicionar o Substring o retorno será PEDIDO 123456
+
+---
+@thiago.andrrade
