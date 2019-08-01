@@ -20,3 +20,6 @@ FROM
 WHERE 
 	RA_CIC ='40951004867' 
 	AND D_E_L_E_T_ =''
+
+---
+@thiago.andrrade
