@@ -1,6 +1,10 @@
 ---------------------------------------------------
 -- BUSCANDO O SEGUNDO REGISTRO x Cliente
 
+-- 1º Seleciono os Clientes pelo SA1
+-- 2º No SELECT, busco o SF2
+-- 3º No WHERE do SF2 busco o MAX do SF2 novamente para poder fazer  F2_EMISSAO < (SELECT  MAX(F2_EMISSAO)....
+
 SELECT 
 	A1_COD, A1_LOJA, A1_NOME ,
 	PENULTIMA = (
